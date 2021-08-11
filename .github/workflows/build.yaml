@@ -29,4 +29,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           files: |
-            build/pve-edk2-firmware-*.*
+            build/pve-edk2-firmware_*.*
